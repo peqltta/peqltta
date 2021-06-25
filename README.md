@@ -32,3 +32,7 @@
     <img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
     <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
 </p>
+
+<p>
+  Obligatory Cat GIF:
+  <iframe src="https://giphy.com/embed/heIX5HfWgEYlW" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></p>
