@@ -34,5 +34,5 @@
 </p>
 
 <p>
-  Obligatory Cat GIF:
+  Obligatory Cat GIF:</br>
   <img src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy-downsized.gif"/> </p>
