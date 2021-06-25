@@ -1,6 +1,6 @@
 <p>
   📣 Hi my name is Aidan:<br/>
-  <a href="linkedin.com/in/aidan-broadbent-4a6509213"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/aidan-broadbent-4a6509213"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 <p>
