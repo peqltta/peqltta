@@ -1,5 +1,5 @@
 <p>
-  📣 Hi my name is Aidan:<br/>
+  📣 Hi my name is Aidan:<br/><br/>
   <a href="https://linkedin.com/in/aidan-broadbent-4a6509213"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
